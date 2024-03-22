@@ -16,4 +16,4 @@ To prevent such subdomain hijacking incidents when using GitHub Pages, it is cru
 If you have encountered a similar issue or have identified subdomains that may have been hijacked, please contribute to this repository by listing the affected accounts. Together, we can raise awareness and help secure the online presence of GitHub Pages users.
 
 Github Account list:
-* https://github.com/Orelnazua66/ftp.sysctl.id
+* https://github.com/Orelnazua66/
